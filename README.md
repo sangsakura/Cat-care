@@ -1,1 +1,5 @@
-最终兼容版：支持TXT、JSON和无扩展名备份；兼容B/S备份、batches数组、pantry[activeCatId]；保留images本地资源目录。上传index.html、README.md及整个images文件夹到GitHub根目录。
+# FINAL 2
+
+上传 index.html 覆盖 GitHub 根目录旧文件即可。本版不依赖 Service Worker、外部脚本或图片目录，避免 iPhone 缓存导致打不开。
+
+文件导入不限制扩展名，可选择 TXT、JSON 和无扩展名文件。页面顶部应显示 `FINAL 2 · TXT/JSON compatible`。
