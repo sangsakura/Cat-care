@@ -1,6 +1,4 @@
-咕噜开罐计划 FINAL 2.0
-1. 解压ZIP。
-2. 可直接打开index.html，或上传至GitHub Pages仓库根目录。
-3. 首次使用时导入原APP导出的JSON/TXT备份。
-4. 对缺少能量或磷数据的项目，系统标记GX并提示覆盖率，不按0磷计算。
-5. 每次补录实际摄入后自动重算滚动7天和30天磷负荷。
+咕噜罐头管家 FINAL 3.1
+解压后，把 index.html 上传到 GitHub 仓库根目录并覆盖旧文件。
+建议上传前先从旧版导出JSON备份。本版支持导入新版备份及原APP activeCatId + pantry 格式。
+ZIP内只有 index.html 和 README.txt。
